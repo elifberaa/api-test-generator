@@ -1,0 +1,2 @@
+[console_scripts]
+api-test-generator = api_test_generator.cli:cli
