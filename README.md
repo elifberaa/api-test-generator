@@ -376,12 +376,7 @@ Bu proje MIT lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 - [Pydantic](https://pydantic-docs.helpmanual.io/) - Tip doğrulama ve veri modelleme için
 - [Click](https://click.palletsprojects.com/) - CLI framework'ü için
 
-## 📞 Destek
 
-- 📧 Email: support@openclaw.ai
-- 🐛 Bug Raporları: [GitHub Issues](https://github.com/openclaw/api-test-generator/issues)
-- 💬 Discord: [OpenClaw Community](https://discord.gg/clawd)
-- 📚 Dokümantasyon: [Wiki](https://github.com/openclaw/api-test-generator/wiki)
 
 ---
 
