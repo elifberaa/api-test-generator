@@ -365,16 +365,6 @@ Katkılarınız memnuniyetle karşılanır! Lütfen:
 4. Dalınıza push edin (`git push origin feature/amazing-feature`)
 5. Bir Pull Request açın
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## 🙏 Teşekkürler
-
-- [OpenAPI Initiative](https://www.openapis.org/) - OpenAPI belirtimi için
-- [pytest](https://pytest.org/) - Harika test framework'ü için
-- [Pydantic](https://pydantic-docs.helpmanual.io/) - Tip doğrulama ve veri modelleme için
-- [Click](https://click.palletsprojects.com/) - CLI framework'ü için
 
 
 
